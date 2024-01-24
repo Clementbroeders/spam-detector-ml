@@ -34,4 +34,4 @@ Le notebook est entièrement automatisé et disponible à la racine du repo : `n
 
 Une fois lancé, le modèle est créé, puis enregistré au chemin suivant : `src/model.h5`. Les métriques sont également enreigstrées au chemin suivant : `src/model_history.json`
 
-Les résultats sont consutables dans le notebook, y compris que certaines visuels comme les matrices de confusion.
+Les résultats sont consutables dans le notebook, y compris certains visuels comme les matrices de confusion.
